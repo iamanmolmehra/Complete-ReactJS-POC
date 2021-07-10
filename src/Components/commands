@@ -1,0 +1,14 @@
+react commands : 
+create app : sudo npm -g install create-react-app
+
+install react router : npm i react-router-dom
+
+install react animation : npm install react-transition-group --save
+
+npm install bootstrap --save
+
+npm install react-bootstrap bootstrap --save
+
+react strap : npm install bootstrap reactstrap --save
+    
+npm install react-table

@@ -1,0 +1,6 @@
+The best way for code splitting into the app is through the dynamic import() syntax. 
+The React.lazy function allows us to render a dynamic import as a regular component.      
+
+If the module which contains the ExampleComponent is not yet loaded by the function 
+component(MyComponent), then we need to show some fallback content while we are waiting 
+for it to load.
